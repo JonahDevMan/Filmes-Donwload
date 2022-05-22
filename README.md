@@ -1,6 +1,5 @@
 # 🎬 Site de Filmes
-> Desenvolvido por Vitória de Valois, a partir de aulas encontradas no meio eletrônico.
-
+> Desenvolvido por Jonathan Costa  por meio de aulas online.
 ## 💻 Tecnologias Usadas
 
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
